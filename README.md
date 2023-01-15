@@ -2,7 +2,7 @@
 
 Reproducible analytical pipelines project for the Workshop II "Statec"
 
-It will vreate a pdf file containing plots of the Medical Cost Personal Datasets from https://www.kaggle.com/datasets/mirichoi0218/insurance
+It will create a pdf file containing plots of the Medical Cost Personal Datasets from https://www.kaggle.com/datasets/mirichoi0218/insurance
 
 # Prerequisites :
 
