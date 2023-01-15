@@ -9,4 +9,5 @@ Git
 
 # Running the Project :
 
-1) git clone
+1) git clone https://github.com/Cuartares/Project.git
+2) 
